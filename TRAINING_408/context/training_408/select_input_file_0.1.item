@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_izS-MFdfEemaicXSkqNdAg" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_izS-MVdfEemaicXSkqNdAg" comment="" name="INPUT_FILE_PATH" prompt="INPUT_FILE_PATH?" promptNeeded="false" type="id_String" value="C:\Users\bade\Documents\Talend\input data\products"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_izS-MldfEemaicXSkqNdAg" confirmationNeeded="false" name="dev">
+    <contextParameter xmi:id="_izS-M1dfEemaicXSkqNdAg" comment="" name="INPUT_FILE_PATH" prompt="INPUT_FILE_PATH?" promptNeeded="false" type="id_String" value="/dev/emp_file"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_izS-NFdfEemaicXSkqNdAg" confirmationNeeded="false" name="prod">
+    <contextParameter xmi:id="_izS-NVdfEemaicXSkqNdAg" comment="" name="INPUT_FILE_PATH" prompt="INPUT_FILE_PATH?" promptNeeded="false" type="id_String" value="/prod/emp_file"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_izS-NldfEemaicXSkqNdAg" confirmationNeeded="false" name="QA">
+    <contextParameter xmi:id="_izS-N1dfEemaicXSkqNdAg" comment="" name="INPUT_FILE_PATH" prompt="INPUT_FILE_PATH?" promptNeeded="false" type="id_String" value="/qa/emp_file"/>
+  </talendfile:ContextType>
+</xmi:XMI>
